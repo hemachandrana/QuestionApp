@@ -1,1 +1,1 @@
-# QuestionApp
+# QuizApp
